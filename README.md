@@ -1,5 +1,5 @@
 # Gianpiero Andrenacci CV
-Here you can find my **CV** in html format
+Here you can find my **CV** in html format  [Github CV](http://gianpiero1978.github.io/mycv) 
 
 For updated version of cv check my  [LinkedIn profile](https://www.linkedin.com/in/gianpiero-andrenacci-72543532/)
 
